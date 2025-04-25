@@ -1,3 +1,12 @@
+/***
+
+Ticket fare Calculator
+    - Children (age < 10): free
+    - Students get a 50% discount
+    - Senior citizens (age >= 60) gets a 15% Discount
+    - Otherwise Regular ticket fare 800 tk
+*/
+
 var age = 9;
 var ticketPrice = 800;
 var student = true;
